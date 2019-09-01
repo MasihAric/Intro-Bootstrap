@@ -1,0 +1,61 @@
+/*Portfolio*/
+.p1:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    margin: 0 auto;
+    transition-duration: 3s;
+}
+
+.p2:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 2s;
+    margin: 0 auto;
+}
+
+.p3:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 1s;
+    margin: 0 auto;
+}
+.p4:hover{
+    -webkit-transform: rotateZ(-30deg);
+    -ms-transform: rotateZ(-30deg);
+    transform: rotateZ(-30deg);
+    transition: transform .29s;
+}
+.p5:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 2s;
+    margin: 0 auto;
+}
+.p6:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    transition-duration: 3s;
+    margin: 0 auto;
+}
+.aboutpic:hover{
+    transform: scale(1.1);
+    transition: transform .2s;
+    transition-duration: 2s;
+    margin: 0 auto;
+}
+.ServiceImg:hover{
+    transform: scale(1.1);
+    transition: transform .20s;
+    margin: 0 auto;
+    transition-duration: 3s;
+}
+
+/*Footer*/
+.footer-flex{
+    display:flex; 
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer-item-flex{
+    flex: 0 1 auto;
+}
